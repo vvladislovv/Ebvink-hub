@@ -18,7 +18,7 @@
 <img  style="margin-top: 10px" src="5.png" width="500" height="50%">
 <img  style="margin-top: 10px" src="6.png" width="500" height="50%">
 
-**VIDEO GAME|** - [YouTube](https://www.youtube.com/watch?v=PWGuNNW0bbg)
+**VIDEO GAME** - [YouTube](https://www.youtube.com/watch?v=PWGuNNW0bbg)
 
 ## Project Developers
 
