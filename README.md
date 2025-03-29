@@ -22,6 +22,6 @@
 
 ## Project Developers
 
-*Vladislov* - [Telegram](https://t.me/vvlad_islovv), [Roblox](https://www.roblox.com/users/707163568/profile). [YouTube](https://www.youtube.com/@EvkaIT), [Discrod](https://discordapp.com/users/913864273279746139/)
+*Vladislov* - [Telegram](https://t.me/evkoch4kaa), [Roblox](https://www.roblox.com/users/707163568/profile). [YouTube](https://www.youtube.com/@EvkaIT), [Discrod](https://discordapp.com/users/913864273279746139/)
 
 *BedyWorld* - [Telegram](https://t.me/BedyWorld), [Discrod](https://discordapp.com/users/780117603183624203/)
